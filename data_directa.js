@@ -49,6 +49,18 @@ window.VENTA_DIRECTA = [
 "unidad": "Nutrannova"
 },
 {
+"f": "2026-08-26",
+"colab": "Danny Flores",
+"area": "NUTRANNOVA",
+"p": "Colágeno",
+"cant": 1,
+"precio": 899.1,
+"desc": 0.5,
+"total": 449.55,
+"estado": "Pendiente",
+"unidad": "Nutrannova"
+},
+{
 "f": "2026-08-25",
 "colab": "Gabriela De Lamprecht",
 "area": "NUTRANNOVA",
