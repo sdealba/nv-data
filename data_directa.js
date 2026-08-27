@@ -10,7 +10,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 449.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "21/8/0206",
@@ -22,7 +22,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 324.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "21/8/0206",
@@ -34,7 +34,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 3495.0,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "21/8/0206",
@@ -46,7 +46,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 274.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -58,7 +58,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 249.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -70,7 +70,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 274.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -82,7 +82,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 324.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -94,7 +94,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 399.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -106,7 +106,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 224.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -118,7 +118,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 449.55,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -130,7 +130,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 349.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
@@ -142,7 +142,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 344.39,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-19",
@@ -154,7 +154,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 324.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-19",
@@ -166,7 +166,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 274.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-19",
@@ -178,7 +178,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 249.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-19",
@@ -190,7 +190,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 274.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-19",
@@ -202,7 +202,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 274.5,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-19",
@@ -214,7 +214,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 494.55,
 "estado": "Pendiente",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-14",
@@ -226,7 +226,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 2247.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-13",
@@ -238,7 +238,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 344.39,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-11",
@@ -418,7 +418,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 748.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-07-29",
@@ -430,7 +430,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 494.55,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-07-29",
@@ -442,7 +442,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 274.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-07-29",
@@ -454,7 +454,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 1348.65,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-07-29",
@@ -466,7 +466,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 1122.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-07-29",
@@ -478,7 +478,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 200.0,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-07-21",
@@ -1450,7 +1450,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 494.55,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1462,7 +1462,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 449.55,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1474,7 +1474,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 344.39,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1486,7 +1486,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 224.55,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1498,7 +1498,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 299.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1510,7 +1510,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 274.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1522,7 +1522,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 399.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1534,7 +1534,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 299.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1546,7 +1546,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 349.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1558,7 +1558,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 224.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1570,7 +1570,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 299.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1582,7 +1582,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 399.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1594,7 +1594,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 324.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1606,7 +1606,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 299.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-24",
@@ -1618,7 +1618,7 @@ window.VENTA_DIRECTA = [
 "desc": 0.5,
 "total": 349.5,
 "estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"unidad": "Nutrannova"
 },
 {
 "f": "2023-07-23",
