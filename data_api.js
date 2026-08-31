@@ -1,4 +1,4 @@
-// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-08-31 11:46
+// Ventas desde APIs — los 3 canales completos desde 2026-02-01 — actualizado 2026-08-31 12:11
 window.VENTAS_API = [
 {f:'2026-02-01',p:'Krill Oil',precio:899.0,cant:1,total:899.0,com:151.7,envio:0,pack:0,neto:747.3,canal:'Amazon',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-02-03',p:'Omega 3 60 caps',precio:799.0,cant:1,total:799.0,com:143.11,envio:0,pack:0,neto:655.89,canal:'Amazon',cd:"Manzanillo",edo:"Colima",gw:'',st:''},
@@ -692,8 +692,8 @@ window.VENTAS_API = [
 {f:'2026-04-22',p:'Pack Krill + D3+K2',precio:1230.42,cant:1,total:1230.42,com:183.33,envio:766.2,pack:0,neto:280.89,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-22',p:'Synbiotic+',precio:523.48,cant:1,total:523.48,com:78.0,envio:766.2,pack:0,neto:-320.72,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-22',p:'Pack D3+K2 + Synbiotic+',precio:998.0,cant:1,total:998.0,com:148.7,envio:766.2,pack:0,neto:83.1,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-04-22',p:'Treonato',precio:878.12,cant:1,total:878.12,com:130.84,envio:766.2,pack:0,neto:-18.92,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-22',p:'Omega 3 120 caps',precio:718.28,cant:1,total:718.28,com:107.02,envio:766.2,pack:0,neto:-154.94,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-04-22',p:'Treonato',precio:878.12,cant:1,total:878.12,com:130.84,envio:766.2,pack:0,neto:-18.92,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-22',p:'Bisglicinato',precio:558.44,cant:1,total:558.44,com:83.21,envio:766.2,pack:0,neto:-290.97,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-22',p:'Krill Oil',precio:668.33,cant:1,total:668.33,com:99.58,envio:766.2,pack:0,neto:-197.45,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-04-22',p:'Multivitamínico Premium',precio:576.42,cant:1,total:576.42,com:85.89,envio:766.2,pack:0,neto:-275.67,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -3868,8 +3868,8 @@ window.VENTAS_API = [
 {f:'2026-08-02',p:'Resveratrol Liposomal',precio:599.4,cant:1,total:599.4,com:89.31,envio:65.5,pack:0,neto:444.59,canal:'Mercado Libre',cd:"Xicotepec",edo:"Puebla",gw:'',st:''},
 {f:'2026-08-02',p:'Inositol',precio:599.4,cant:1,total:599.4,com:89.31,envio:74.5,pack:0,neto:435.59,canal:'Mercado Libre',cd:"Azcapotzalco",edo:"CDMX",gw:'',st:''},
 {f:'2026-08-02',p:'Multivitamínico Premium',precio:449.1,cant:1,total:449.1,com:66.92,envio:56.0,pack:0,neto:326.18,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-08-02',p:'Probióticos 60 Billones',precio:799.2,cant:1,total:799.2,com:119.08,envio:135.5,pack:0,neto:544.62,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-02',p:'Krill Oil',precio:691.53,cant:1,total:691.53,com:103.04,envio:135.5,pack:0,neto:452.99,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-08-02',p:'Probióticos 60 Billones',precio:799.2,cant:1,total:799.2,com:119.08,envio:135.5,pack:0,neto:544.62,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-02',p:'Treonato',precio:989.0,cant:1,total:989.0,com:147.36,envio:140.0,pack:0,neto:701.64,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-02',p:'Krill Oil',precio:691.53,cant:1,total:691.53,com:103.04,envio:140.0,pack:0,neto:448.49,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-02',p:'Inositol',precio:599.4,cant:1,total:599.4,com:89.31,envio:74.5,pack:0,neto:435.59,canal:'Mercado Libre',cd:"Chihuahua",edo:"Chihuahua",gw:'',st:''},
@@ -3933,8 +3933,8 @@ window.VENTAS_API = [
 {f:'2026-08-03',p:'Vitamina D3+K2',precio:498.0,cant:1,total:498.0,com:0.0,envio:0,pack:0,neto:498.0,canal:'Amazon',cd:"Pachuca de Soto",edo:"Hidalgo",gw:'',st:''},
 {f:'2026-08-03',p:'Creatina Creavant 450g',precio:799.0,cant:1,total:799.0,com:119.05,envio:74.5,pack:0,neto:605.45,canal:'Mercado Libre',cd:"Huajuapan de León",edo:"Oaxaca",gw:'',st:''},
 {f:'2026-08-03',p:'Omega 3 60 caps',precio:457.09,cant:1,total:457.09,com:68.11,envio:56.0,pack:0,neto:332.98,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-08-03',p:'MLV For Her',precio:449.1,cant:1,total:449.1,com:66.92,envio:104.8,pack:0,neto:277.38,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-03',p:'Multivitamínico Hombre',precio:449.1,cant:1,total:449.1,com:66.92,envio:104.8,pack:0,neto:277.38,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-08-03',p:'MLV For Her',precio:449.1,cant:1,total:449.1,com:66.92,envio:104.8,pack:0,neto:277.38,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-03',p:'Colágeno',precio:813.98,cant:1,total:813.98,com:121.28,envio:74.5,pack:0,neto:618.2,canal:'Mercado Libre',cd:"Ixtaczoquitlan",edo:"Veracruz",gw:'',st:''},
 {f:'2026-08-03',p:'Resveratrol Liposomal',precio:599.4,cant:1,total:599.4,com:89.31,envio:65.5,pack:0,neto:444.59,canal:'Mercado Libre',cd:"Chimalhuacán",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-08-03',p:'Inositol',precio:599.4,cant:1,total:599.4,com:89.31,envio:74.5,pack:0,neto:435.59,canal:'Mercado Libre',cd:"León",edo:"Guanajuato",gw:'',st:''},
@@ -4067,8 +4067,8 @@ window.VENTAS_API = [
 {f:'2026-08-05',p:'Calostro Bovino',precio:599.4,cant:1,total:599.4,com:89.31,envio:65.5,pack:0,neto:444.59,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-05',p:'Inositol',precio:599.4,cant:1,total:599.4,com:89.31,envio:140.0,pack:0,neto:370.09,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-05',p:'Calostro Bovino',precio:599.4,cant:1,total:599.4,com:89.31,envio:140.0,pack:0,neto:370.09,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-08-05',p:'Multivitamínico Premium',precio:449.1,cant:1,total:449.1,com:66.92,envio:126.0,pack:0,neto:256.18,canal:'Mercado Libre',cd:"Tultitlán",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-08-05',p:'Krill Oil',precio:691.53,cant:1,total:691.53,com:103.04,envio:126.0,pack:0,neto:462.49,canal:'Mercado Libre',cd:"Tultitlán",edo:"Edo. de México",gw:'',st:''},
+{f:'2026-08-05',p:'Multivitamínico Premium',precio:449.1,cant:1,total:449.1,com:66.92,envio:126.0,pack:0,neto:256.18,canal:'Mercado Libre',cd:"Tultitlán",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-08-05',p:'Treonato',precio:989.0,cant:1,total:989.0,com:147.36,envio:70.0,pack:0,neto:771.64,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-05',p:'Calostro Bovino',precio:599.4,cant:1,total:599.4,com:89.31,envio:65.5,pack:0,neto:444.59,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-05',p:'Treonato',precio:989.0,cant:1,total:989.0,com:147.36,envio:70.0,pack:0,neto:771.64,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -4438,8 +4438,8 @@ window.VENTAS_API = [
 {f:'2026-08-12',p:'Krill Oil',precio:691.53,cant:1,total:691.53,com:103.04,envio:70.0,pack:0,neto:518.49,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-12',p:'Testo Fuel',precio:799.2,cant:1,total:799.2,com:119.08,envio:117.9,pack:0,neto:562.22,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-12',p:'Multivitamínico Hombre',precio:449.1,cant:1,total:449.1,com:66.92,envio:117.9,pack:0,neto:264.28,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
-{f:'2026-08-12',p:'Colágeno',precio:813.98,cant:1,total:813.98,com:121.28,envio:130.5,pack:0,neto:562.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-12',p:'Omega 3 60 caps',precio:456.16,cant:1,total:456.16,com:67.97,envio:130.5,pack:0,neto:257.69,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-08-12',p:'Colágeno',precio:813.98,cant:1,total:813.98,com:121.28,envio:130.5,pack:0,neto:562.2,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-12',p:'Synbiotic+',precio:566.1,cant:1,total:566.1,com:84.35,envio:140.0,pack:0,neto:341.75,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-12',p:'Testo Fuel',precio:799.2,cant:1,total:799.2,com:119.08,envio:140.0,pack:0,neto:540.12,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-12',p:'Synbiotic+',precio:566.1,cant:1,total:566.1,com:84.35,envio:74.5,pack:0,neto:407.25,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
@@ -4845,8 +4845,8 @@ window.VENTAS_API = [
 {f:'2026-08-17',p:'Shilajit Liposomal',precio:498.0,cant:1,total:0.0,com:0.0,envio:0,pack:0,neto:0.0,canal:'Amazon',cd:"Acapulco de Juarez",edo:"Guerrero",gw:'',st:''},
 {f:'2026-08-17',p:'Vitamina D3+K2',precio:515.22,cant:1,total:515.22,com:76.77,envio:70.0,pack:0,neto:368.45,canal:'Mercado Libre',cd:"Saltillo",edo:"Coahuila",gw:'',st:''},
 {f:'2026-08-17',p:'Calostro Bovino',precio:619.38,cant:2,total:1238.76,com:184.58,envio:131.0,pack:0,neto:923.18,canal:'Mercado Libre',cd:"Gustavo A. Madero",edo:"CDMX",gw:'',st:''},
-{f:'2026-08-17',p:'Probióticos 60 Billones',precio:825.84,cant:1,total:825.84,com:123.05,envio:135.5,pack:0,neto:567.29,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-17',p:'Vitamina D3+K2',precio:515.22,cant:1,total:515.22,com:76.77,envio:135.5,pack:0,neto:302.95,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
+{f:'2026-08-17',p:'Probióticos 60 Billones',precio:825.84,cant:1,total:825.84,com:123.05,envio:135.5,pack:0,neto:567.29,canal:'Mercado Libre',cd:"ZMG (Guadalajara)",edo:"Jalisco",gw:'',st:''},
 {f:'2026-08-17',p:'Bisglicinato',precio:514.29,cant:1,total:514.29,com:76.63,envio:70.0,pack:0,neto:367.66,canal:'Mercado Libre',cd:"Coyoacán",edo:"CDMX",gw:'',st:''},
 {f:'2026-08-17',p:'Vitamina D3+K2',precio:515.22,cant:1,total:515.22,com:76.77,envio:70.0,pack:0,neto:368.45,canal:'Mercado Libre',cd:"Balancan",edo:"Tabasco",gw:'',st:''},
 {f:'2026-08-17',p:'MLV For Her',precio:340.38,cant:1,total:340.38,com:50.72,envio:52.4,pack:0,neto:237.26,canal:'Mercado Libre',cd:"Eduardo Neri",edo:"Guerrero",gw:'',st:''},
@@ -4961,8 +4961,8 @@ window.VENTAS_API = [
 {f:'2026-08-18',p:'Synbiotic+',precio:399.01,cant:1,total:399.0,com:0.0,envio:0,pack:0,neto:399.0,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:''},
 {f:'2026-08-18',p:'Synbiotic+',precio:399.01,cant:1,total:399.0,com:0.0,envio:0,pack:0,neto:399.0,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:''},
 {f:'2026-08-18',p:'Krill Oil',precio:652.0,cant:1,total:652.0,com:0.0,envio:0,pack:0,neto:652.0,canal:'Amazon',cd:"CDMX",edo:"CDMX",gw:'',st:''},
-{f:'2026-08-18',p:'Omega 3 120 caps',precio:610.0,cant:1,total:610.0,com:82.81,envio:135.5,pack:0,neto:391.69,canal:'Mercado Libre',cd:"Toluca",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-08-18',p:'Bisglicinato',precio:514.29,cant:1,total:514.29,com:69.81,envio:135.5,pack:0,neto:308.98,canal:'Mercado Libre',cd:"Toluca",edo:"Edo. de México",gw:'',st:''},
+{f:'2026-08-18',p:'Omega 3 120 caps',precio:610.0,cant:1,total:610.0,com:82.81,envio:135.5,pack:0,neto:391.69,canal:'Mercado Libre',cd:"Toluca",edo:"Edo. de México",gw:'',st:''},
 {f:'2026-08-18',p:'Bisglicinato',precio:514.29,cant:1,total:514.29,com:72.8,envio:70.0,pack:0,neto:371.49,canal:'Mercado Libre',cd:"Arcelia",edo:"Guerrero",gw:'',st:''},
 {f:'2026-08-19',p:'Glutathione Liposomal',precio:489.0,cant:1,total:489.0,com:0.0,envio:0,pack:0,neto:489.0,canal:'Amazon',cd:"Hermosillo",edo:"Sonora",gw:'',st:''},
 {f:'2026-08-19',p:'Vitamina D3+K2',precio:470.0,cant:1,total:470.0,com:0.0,envio:0,pack:0,neto:470.0,canal:'Amazon',cd:"Torreon",edo:"Coahuila De Zaragoza",gw:'',st:''},
@@ -6032,8 +6032,10 @@ window.VENTAS_API = [
 {f:'2026-08-31',p:'Glutathione Liposomal',precio:498.0,cant:1,total:429.31,com:0.0,envio:0,pack:0,neto:429.31,canal:'Amazon',cd:"la Piedad de Cabadas",edo:"Michoacan De Ocampo",gw:'',st:'p'},
 {f:'2026-08-31',p:'Multivitamínico Premium',precio:399.01,cant:1,total:343.97,com:0.0,envio:0,pack:0,neto:343.97,canal:'Amazon',cd:"Queretaro",edo:"Querétaro",gw:'',st:'p'},
 {f:'2026-08-31',p:'Multivitamínico Hombre',precio:399.01,cant:1,total:343.97,com:0.0,envio:0,pack:0,neto:343.97,canal:'Amazon',cd:"Rioverde",edo:"San Luis Potosí",gw:'',st:'p'},
+{f:'2026-08-31',p:'Omega 3 120 caps',precio:639.0,cant:1,total:550.86,com:0.0,envio:0,pack:0,neto:550.86,canal:'Amazon',cd:"Torreon",edo:"Coahuila De Zaragoza",gw:'',st:'p'},
+{f:'2026-08-31',p:'Creatina Creavant 450g',precio:449.0,cant:1,total:387.07,com:0.0,envio:0,pack:0,neto:387.07,canal:'Amazon',cd:"Merida",edo:"Yucatán",gw:'',st:'p'},
 {f:'2026-08-31',p:'Bisglicinato',precio:509.0,cant:1,total:509.0,com:75.84,envio:70.0,pack:0,neto:363.16,canal:'Mercado Libre',cd:"Juárez",edo:"Chihuahua",gw:'',st:''}
 ];
 // Desde estas fechas manda el API y las filas del Excel se ignoran (queda de respaldo):
 window.API_COVERAGE = {"Mercado Libre": "2026-02-01", "Shopify": "2026-02-01", "Amazon": "2026-02-01"};
-window.API_UPDATED = '2026-08-31 11:46';
+window.API_UPDATED = '2026-08-31 12:11';
