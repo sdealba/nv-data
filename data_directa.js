@@ -51,14 +51,14 @@ window.VENTA_DIRECTA = [
 {
 "f": "2026-09-02",
 "colab": "Erika Garcia",
-"area": "",
+"area": "NUTRANNOVA",
 "p": "Krill Oil",
 "cant": 1,
-"precio": 699.0,
+"precio": 709.0,
 "desc": 0.5,
-"total": 349.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"total": 354.5,
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-31",
@@ -69,8 +69,8 @@ window.VENTA_DIRECTA = [
 "precio": 499.0,
 "desc": 0.5,
 "total": 249.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-28",
@@ -81,8 +81,8 @@ window.VENTA_DIRECTA = [
 "precio": 449.0,
 "desc": 0.5,
 "total": 224.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-28",
@@ -93,8 +93,8 @@ window.VENTA_DIRECTA = [
 "precio": 449.1,
 "desc": 0.5,
 "total": 224.55,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-28",
@@ -105,8 +105,8 @@ window.VENTA_DIRECTA = [
 "precio": 499.0,
 "desc": 0.5,
 "total": 249.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-28",
@@ -117,8 +117,8 @@ window.VENTA_DIRECTA = [
 "precio": 449.0,
 "desc": 0.5,
 "total": 449.0,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-28",
@@ -129,8 +129,8 @@ window.VENTA_DIRECTA = [
 "precio": 899.1,
 "desc": 0.5,
 "total": 449.55,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-28",
@@ -141,8 +141,8 @@ window.VENTA_DIRECTA = [
 "precio": 599.0,
 "desc": 0.5,
 "total": 299.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-28",
@@ -153,8 +153,8 @@ window.VENTA_DIRECTA = [
 "precio": 449.0,
 "desc": 0.5,
 "total": 224.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-26",
@@ -261,8 +261,8 @@ window.VENTA_DIRECTA = [
 "precio": 799.0,
 "desc": 0.5,
 "total": 399.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-26",
@@ -273,8 +273,8 @@ window.VENTA_DIRECTA = [
 "precio": 599.0,
 "desc": 0.5,
 "total": 299.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-26",
@@ -285,8 +285,8 @@ window.VENTA_DIRECTA = [
 "precio": 449.0,
 "desc": 0.5,
 "total": 224.5,
-"estado": "Pagado",
-"unidad": "SIN UNIDAD"
+"estado": "Pendiente",
+"unidad": "Nutrannova"
 },
 {
 "f": "2026-08-25",
