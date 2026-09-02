@@ -49,6 +49,18 @@ window.VENTA_DIRECTA = [
 "unidad": "Nutrannova"
 },
 {
+"f": "2026-09-02",
+"colab": "Erika Garcia",
+"area": "",
+"p": "Krill Oil",
+"cant": 1,
+"precio": 699.0,
+"desc": 0.5,
+"total": 349.5,
+"estado": "Pagado",
+"unidad": "SIN UNIDAD"
+},
+{
 "f": "2026-08-31",
 "colab": "Alfredo Mena",
 "area": "CEO",
